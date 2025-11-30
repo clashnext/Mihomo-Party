@@ -1,6 +1,10 @@
 # Mihomo Party 下载软件教程分享
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="MihomoParty" src="https://github.com/user-attachments/assets/d90688e5-3854-4396-92eb-76d1b6eac893" />
+</div>
+<br>
 
 ## :memo: Mihomo Party 节点资源
 
